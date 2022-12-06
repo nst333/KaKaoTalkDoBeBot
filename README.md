@@ -4,7 +4,8 @@
     1. pyautogui
     2. pyperclip
     
-    * 위 모듈을 설치가 필요한 모듈입니다 (This module is a module that needs to be installed)
+    * 위 모듈을 설치가 필요한 모듈입니다
+    * (This module is a module that needs to be installed)
 
 How to use (Usage)
 1. Enter the person to be mentioned (if not using mentions, do not write anything)
