@@ -1,8 +1,10 @@
 # KaKaoTalkDoBeBot
 
----실행에 필요한 모듈(Modules required to run)---
-    1. pyautogui
-    2. pyperclip
+> ## Modules required to run ( 실행에 필요한 모듈 )
+> PyAutoGUI
+> **<pre><code> pip install pyautogui </code></pre>**
+> PyPerClip
+> **<pre><code> pip install pyperclip </code></pre>**
     
     * 위 모듈을 설치가 필요한 모듈입니다
     * (This module is a module that needs to be installed)
