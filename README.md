@@ -1,5 +1,8 @@
 # KaKaoTalkDoBeBot
 
+>Used Language
+> ### ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 > ## Modules required to run ( 실행에 필요한 모듈 )
 > PyAutoGUI
 > **<pre><code> pip install pyautogui </code></pre>**
